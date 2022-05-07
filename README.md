@@ -1,3 +1,11 @@
+* [What is this Repo](#what-is-this-repo)
+* [Generic Links](#generic-links)
+* [Websites](#websites)
+* [Reddit posts](#reddit-posts)
+* [Books](#books)
+* [Courses](#courses)
+* [Articles](#articles)
+
 # What is this Repo
 
 This is a temporary collection for links and resources for learning the Web 3.0 
