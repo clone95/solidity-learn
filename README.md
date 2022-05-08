@@ -5,6 +5,7 @@
 * [Books](#books)
 * [Courses](#courses)
 * [Articles](#articles)
+* [Hubs and Communities](#hubs-and-communities)
 
 # What is this Repo
 
@@ -63,3 +64,7 @@ Check the Books folder!
 - [Ethereum Smart Contract Security Best Practices¶
 ](https://consensys.github.io/smart-contract-best-practices/)
 - [Solidity Cheatsheets Pack](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
+
+# Hubs and Communities
+
+- [Crypto Dev Hub](https://cryptodevhub.io/)
