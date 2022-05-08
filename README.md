@@ -59,5 +59,7 @@ Check the Books folder!
 ](https://blog.blockmagnates.com/how-to-build-a-dao-decentralized-autonomous-organization-in-solidity-af1cf900d95d)
 - [A Beginners Guide to Understanding CRUD in Solidity
 ](https://blog.blockmagnates.com/a-beginners-guide-to-understanding-crud-in-solidity-db70d90084ed)
-- []()
-- []()
+- [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
+- [Ethereum Smart Contract Security Best Practices¶
+](https://consensys.github.io/smart-contract-best-practices/)
+- [Solidity Cheatsheets Pack](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
