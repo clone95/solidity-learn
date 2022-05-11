@@ -5,6 +5,8 @@
 * [Books](#books)
 * [Courses](#courses)
 * [Articles](#articles)
+* [Blockchain fundamentals](#fundamentals)
+* [Utility](#utility)
 * [Hubs and Communities](#hubs-and-communities)
 
 # What is this Repo
@@ -16,6 +18,10 @@ This is a temporary collection for links and resources for learning the Web 3.0
 - [Dev To](https://dev.to/)
 - [UseWeb3](https://www.useweb3.xyz/)
 - [LearnWeb3](https://www.learnweb3.io/)
+- [ETH wiki](https://eth.wiki)
+- []()
+- []()
+- []()
 - []()
 
 # Reddit posts 
@@ -64,6 +70,21 @@ Check the Books folder!
 - [Ethereum Smart Contract Security Best Practices¶
 ](https://consensys.github.io/smart-contract-best-practices/)
 - [Solidity Cheatsheets Pack](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
+
+# Utility
+- [BIP39 Mnemonic Code Converter](https://iancoleman.io/bip39/)
+- []()
+- []()
+- []()
+- []()
+
+# Blockchain fundamentals
+- [Bitcoin commented whitepaper](https://fermatslibrary.com/s/bitcoin)
+- [Ethereum commented whitepaper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
+- [Blockchain demo](https://andersbrownworth.com/blockchain/)
+- [Blockchain public/private keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
+- []()
+- []()
 
 # Hubs and Communities
 
