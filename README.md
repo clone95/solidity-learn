@@ -5,8 +5,9 @@
 * [Books](#books)
 * [Courses](#courses)
 * [Articles](#articles)
-* [Blockchain fundamentals](#fundamentals)
 * [Utility](#utility)
+* [Libraries](#libraries)
+* [Blockchain fundamentals](#blockchain-fundamentals)
 * [Hubs and Communities](#hubs-and-communities)
 
 # What is this Repo
@@ -77,7 +78,16 @@ Check the Books folder!
 - []()
 - []()
 - []()
-
+# Libraries
+- [OpenZeppelin](https://openzeppelin.com)
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Truffle](https://github.com/trufflesuite/truffle)
+- [Solidity Colletions](https://github.com/ethereum/wiki/wiki/Solidity-Collections)
+- [Waffle](https://github.com/TrueFiEng/Waffle)
+- [Modular Libraries](https://github.com/modular-network/ethereum-libraries)
+- [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton)
+- [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/indexed-sparse-merkle-tree)
+- []()
 # Blockchain fundamentals
 - [Bitcoin commented whitepaper](https://fermatslibrary.com/s/bitcoin)
 - [Ethereum commented whitepaper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
