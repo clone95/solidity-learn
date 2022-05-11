@@ -47,10 +47,9 @@ This is a temporary collection for links and resources for learning the Web 3.0
 
 Check the Books folder!
 
-- [Crypto-Current: Bitcoin and Philosophy
-](https://etscrivner.github.io/cryptocurrent/)
-- []()
-- []()
+- [Crypto-Current: Bitcoin and Philosophy](https://etscrivner.github.io/cryptocurrent/)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Token Economy: How the Web3 reinvents the Internet](https://github.com/Token-Economy-Book/EnglishOriginal)
 - []()
 - []()
 
@@ -71,7 +70,13 @@ Check the Books folder!
 - [Ethereum Smart Contract Security Best Practices¶
 ](https://consensys.github.io/smart-contract-best-practices/)
 - [Solidity Cheatsheets Pack](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
-
+- [A Proof of Stake Design Philosophy - Vitalik Buterin](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 # Utility
 - [BIP39 Mnemonic Code Converter](https://iancoleman.io/bip39/)
 - []()
@@ -93,7 +98,7 @@ Check the Books folder!
 - [Ethereum commented whitepaper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
 - [Blockchain demo](https://andersbrownworth.com/blockchain/)
 - [Blockchain public/private keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
-- []()
+- [Old Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 - []()
 
 # Hubs and Communities
