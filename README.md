@@ -51,6 +51,10 @@ Check the Books folder!
 - [Solidity Basics - Smart Contracts and Decentralized Finance](https://www.youtube.com/watch?v=3wb-tnMcTFU&list=PLoVRRjQbqYFyV6DQtoNlCbnp3QrvSITPi&ab_channel=CenterforInnovativeFinance)
 - [Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/?couponCode=4049566DE95C58953640)
 
+## Papers
+- [Extorsionware: Exploiting Smart Contract Vulnerabilities for Fun and Profit](https://arxiv.org/pdf/2203.09843.pdf)
+
+
 ## Articles
 
 - [How to build a DAO (Decentralized autonomous organization) in Solidity?](https://blog.blockmagnates.com/how-to-build-a-dao-decentralized-autonomous-organization-in-solidity-af1cf900d95d)
