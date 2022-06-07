@@ -23,6 +23,7 @@ This is a temporary collection for links and resources for learning the Web 3.0
 ### Scaffold ETH and his creator YT - excellent starting point, I think this can make you a decent dev from zero
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Scaffold ETH](https://github.com/scaffold-eth/scaffold-eth)
+- https://github.com/bkrem/awesome-solidity
 
 ## Websites
 
