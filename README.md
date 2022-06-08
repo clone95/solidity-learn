@@ -14,6 +14,7 @@ This is a temporary collection for links and resources for learning the Web 3.0
   - [Books](#books)
   - [Courses](#courses)
   - [Articles](#articles)
+  - [Tools](#tools)
   - [Utility](#utility)
   - [Libraries](#libraries)
   - [Blockchain fundamentals](#blockchain-fundamentals)
@@ -66,6 +67,9 @@ Check the Books folder!
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Solidity Cheatsheets Pack](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
 - [A Proof of Stake Design Philosophy - Vitalik Buterin](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8)
+
+## Tools
+- [Ethereum developer tooling landscape](https://twitter.com/iam_preethi/status/1534198291143049217/photo/1)
 
 ## Utility
 
